@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  bottlecangowhere:
+    build: .
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN}
+    volumes:
+      - ./main.py:/usr/src/app/main.py
+      - ./data.csv:/usr/src/app/data.csv
+    restart: unless-stopped

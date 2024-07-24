@@ -1,0 +1,30 @@
+Name,Address,Description,Hours,Latitude,Longitude,Status,Nearby
+Aperia Mall,12 KALLANG AVENUE 339511,Level 1 Lobby A,1000-2200,1.309880671,103.8642693,Working,E-Waste
+Ascent,2 SCIENCE PARK DRIVE 118222,Level 1 Retail Lift Lobby,0830-1800,1.29111389,103.7845568,Working,
+Bedok Mall,311 New Upper Changi Rd Singapore 467360,B2 Linkway to MRT,1000-2200,1.324803,103.929658,Working,Paper
+Bishan Sports Centre,5 Bishan Street 14 Singapore 579783,Sport Centre Drop Off Lobby,24 Hours,1.35537,103.850797,Working,
+Bugis +,201 Victoria Street Singapore 188067,L1 External Walkway @ B+ facing Bugis Street,24 Hours,1.299723,103.854296,Working,E-Waste
+Bukit Gombak Sports Centre,810 Bukit Batok West Ave 5 Singapore 659088,L1 near Staircase A,24 Hours,1.36031,103.752271,Working,Paper
+Bukit Panjang Plaza,1 Jelebu Rd Singapore 677743,L1 External Walkway outside dental clinic,24 Hours,1.380906,103.763895,Working,
+Choa Chu Kang Sports Centre,1 Choa Chu Kang St 53 Singapore 689236,L1 near vehicle drop off point,24 Hours,1.391116,103.748039,Working,E-Waste
+Funan,107 North Bridge Rd Singapore 179105,L3 near entrance to Courts,1000-2200,1.291568,103.850062,Working,Paper
+Galaxis,1 Fusionopolis Place Singapore 138522,Level 1 Retail Walkway near escalator,24 Hours,1.299783298,103.7883238,Working,
+Geylang Bahru Blk 68,Blk 68 Geylang Bahru Singapore 330068,Void deck next to 7-11 Store,24 Hours,1.3224429,103.8700378,Other Issue,E-Waste
+Geylang East Swimming Complex,601 Aljunied Ave 1 Singapore 389862,At entrance to swimming complex,24 Hours,1.321351,103.888052,Working,Paper
+Heartbeat @ Bedok,11 Bedok North Street 1 Singapore 469662,Level 1 beside Lift Lobby B,24 Hours,1.327153,103.93225,Out of Order,
+Hougang Sports Centre,93 Hougang Avenue 4 Singapore 538832,At entrance to Stadium,24 Hours,1.37022,103.88758,Working,E-Waste
+Jalan Besar Sports Centre,100 Tyrwhitt Rd Singapore 207542,Walkway to Stadium Entrance,24 Hours,1.309894,103.860071,Working,Paper
+Jurong East Sports Centre,21 Jurong East Street 31 Singapore 609517,L2 South Entrance,24 Hours,1.346937,103.729191,Working,
+Lot 1,21 Choa Chu Kang Ave 4 Singapore 689812,L1 Green Corner,1000-2200,1.385663,103.745175,Working,E-Waste
+Ngee Ann Polytechnic,535 Clementi Road Singapore 599489,Block 22 Outside Food Club Canteen,0830-1800,1.332889,103.772449,Working,Paper
+Plaza 8,1 Changi Business Park Crescent Singapore 486025,Level 1 Podium C near #01-25,1000-2200,1.333651698,103.9655783,Working,
+Raffles City,252 NORTH BRIDGE RD 179103,Basement 2 (carpark) Lobby A,1000-2200,1.294076286,103.8526109,Working,E-Waste
+Resorts World Sentosa,8 Sentosa Gateway Singapore 098269,Universal Circle Level 1 outside Garrett's Popcorn,24 Hours,1.256778,103.82035,Working,Paper
+Sengkang Sports Centre,57 Anchorvale Rd Singapore 544964,L1 (facing Anchorvale Road),24 Hours,1.396896,103.886675,Working,
+Sentosa Beach Station,50 Beach View Singapore 098604,Opposite Bus Bay 3,24 Hours,1.252475,103.818583,Working,E-Waste
+Sentosa Cove Village,1 Cove Ave Sentosa Arrival Plaza Singapore 098537,Near Cold Storage Sentosa Cove Village trolley return bay,24 Hours,1.247248,103.839999,Working,Paper
+Tampines Mall,4 Tampines Central 5 Singapore 529510,L1 Promenade outside Starbucks,24 Hours,1.353648,103.945116,Working,
+Tiong Bahru Market,30 Seng Poh Road Singapore 168898,2nd floor of market near escalators,24 Hours,1.284732,103.832439,Other Issue,E-Waste
+Westgate,3 Gateway Dr Singapore 608532,L1 External Walkway facing JEM,24 Hours,1.334586,103.742793,Working,Paper
+Woodlands Sports Centre,1 Woodlands Street 13 Singapore 738597,At Stadium Gate 3,24 Hours,1.435270685,103.7804597,Working,
+Yio Chu Kang Sports Centre,200 Ang Mo Kio Ave 9 Singapore 569770,At the Squash Courts,24 Hours,1.382346,103.845938,Working,E-Waste
